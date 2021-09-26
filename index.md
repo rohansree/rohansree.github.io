@@ -1,5 +1,5 @@
 #Page About Rohan
-** This is a page for CSE 110 Lab 1" **
+**This is a page for CSE 110 Lab 1**
 > Not very sure what to make this about
 
 ``no way``
@@ -24,8 +24,3 @@ My favorite fast food places:
 To-DO
 - [] CSE 110 Lab 1
 - [] Some more work
-
-
-
-
-/DSC_0212.jpeg "photo of me"
