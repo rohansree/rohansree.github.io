@@ -1,4 +1,4 @@
-#Page About Rohan
+# Page About Rohan
 **This is a page for CSE 110 Lab 1**
 > Not very sure what to make this about
 
@@ -6,7 +6,7 @@
 
 Having a great time at [Canvas](https://canvas.ucsd.edu).
 
-###A section heading
+### A section heading
 [README for this project](/README.md)
 
 ![Did you know the barbados flag has the UCSD logo on it?](https://cdn.freeprintableflags.com/samples/Barbados.png)
