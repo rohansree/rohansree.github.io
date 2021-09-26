@@ -20,6 +20,7 @@ My favorite fast food places:
 1. McDonald's
 2. In-N-Out
 3. Canes
+4. ShakeShack
 
 To-DO
 - [] CSE 110 Lab 1
